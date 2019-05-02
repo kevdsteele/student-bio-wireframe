@@ -6,8 +6,12 @@ body{
 
 /* classes */
 
-.left-float {
-float:left;
+.column1-3{
+width:33.3%;
+}
+
+.column2-3{
+width:66.7%;
 }
 
 .header {
@@ -15,6 +19,10 @@ background-color:black;
 text-align:center;
 color:white;
 padding: 5px;
+}
+
+.left-float {
+float:left;
 }
 
 .top-container{
