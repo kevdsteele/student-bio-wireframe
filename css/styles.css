@@ -24,6 +24,8 @@ padding: 5px;
 
 .place-img {
 border-right:25px;
+height:200px;
+width:200px;
 }
 .left-float {
 float:left;
