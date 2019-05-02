@@ -1,7 +1,12 @@
+.body{
+ margin 0px;   
+}
+
+
 .header {
 background-color:black;
 text-align:center;
 color:white;
 padding: 5px;
-margin:0 auto 0 auto;
+mar
 }
