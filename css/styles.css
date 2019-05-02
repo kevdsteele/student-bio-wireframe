@@ -22,6 +22,9 @@ color:white;
 padding: 5px;
 }
 
+.place-img {
+border-right:25px;
+}
 .left-float {
 float:left;
 }
