@@ -6,6 +6,10 @@ body{
 
 /* classes */
 
+.bio-text {
+float:left;
+}
+
 .header {
 background-color:black;
 text-align:center;
