@@ -1,11 +1,18 @@
+/*html elements */
+
 body{
  margin:0px;
 }
 
+/* classes */
 
 .header {
 background-color:black;
 text-align:center;
 color:white;
 padding: 5px;
+}
+
+.name-container{
+ float:left;   
 }
